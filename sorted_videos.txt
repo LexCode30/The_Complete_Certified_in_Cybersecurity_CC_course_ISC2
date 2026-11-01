@@ -1,0 +1,154 @@
+# The Complete Certified in Cybersecurity CC course ISC2
+
+1. Introduction  [s1.html]
+    001. Introduction and download your free study guides  ->  https://drive.google.com/file/d/1MMSH9NJUSnnyms5Qyd_t4pkLOyEiueA9/preview
+    002. Connect with me on Social media and the Udemy ratings system  ->  https://drive.google.com/file/d/1Rf_BviQdITHq4vcZOsFBPZZKN0vIExJo/preview
+    003. How to get the most out of my courses and the Udemy interface  ->  https://drive.google.com/file/d/1r_Pa1iZJM20s89dEAUxKEr37FgWUoivX/preview
+    004. How to approach certification studying  ->  https://drive.google.com/file/d/1VBq-XD9W0D82jjzxQceFc2v6ciJwVTsJ/preview
+
+2. Domain 1 Security Principles  [s2.html]
+    001. Domain 1 - What we will be covering  ->  https://drive.google.com/file/d/1ko3rNDftlQ1xusumphyivEh5n5JWNQiU/preview
+    002. The differences between Information Security IT Security and Cybersecurity  ->  https://drive.google.com/file/d/1RafPvZ2jdTGfY90kaYnp1AJxJBtgWgEs/preview
+    003. The CIA Triad - Confidentiality Integrity and Availability - part 1  ->  https://drive.google.com/file/d/1VoFyczcpfFs7ZfY4Xx94HVbD9NmCm-b7/preview
+    004. The CIA Triad - Confidentiality Integrity and Availability - part 2  ->  https://drive.google.com/file/d/1XC9UBRAQ6JjDCPDGN-PqY9dIxkqAq1Zs/preview
+    005. The CIA Triad - Confidentiality Integrity and Availability - part 3  ->  https://drive.google.com/file/d/1u4QQu1g1aLj2AcAAXbwwrLG4d3XSE0xW/preview
+    006. The CIA Triad - Confidentiality Integrity and Availability - part 4  ->  https://drive.google.com/file/d/1QrhAkQg2drT0y12Cx6luncaT0ecs5zih/preview
+    007. The CIA Triad - Confidentiality Integrity and Availability - part 5  ->  https://drive.google.com/file/d/1pe9qoeO7nyjdHJ6JifiMDu8aq1c-jKIt/preview
+    008. IAAA - Identification Authentication Authorization and Accountability - part 1  ->  https://drive.google.com/file/d/1ryg1cCZjvqA9wCMbVCl-o60NZKIaE3au/preview
+    009. IAAA - Identification Authentication Authorization and Accountability - part 2  ->  https://drive.google.com/file/d/1ajdbRKYlyj9J-vOeerUCiEiStlPy05IT/preview
+    010. IAAA - Identification Authentication Authorization and Accountability - part 3  ->  https://drive.google.com/file/d/1ByKB2y8yI3RABQG4uCvaqKOzmXr4e2U7/preview
+    011. IAAA - Identification Authentication Authorization and Accountability - part 4  ->  https://drive.google.com/file/d/1U76wAGxRVg8avCzZ2FX7kwoZfDfdv3MB/preview
+    012. IAAA - Identification Authentication Authorization and Accountability - part 5  ->  https://drive.google.com/file/d/1Rk_zhNlzNyV4yHpHmRuyTPIN30WpN32f/preview
+    013. Privacy  ->  https://drive.google.com/file/d/1TcYXwzxPfqIZCcc32rusvHwAd88xUbAP/preview
+    014. Risk Management - part 1  ->  https://drive.google.com/file/d/1RxmZ16wugZ6I9uwwD5um1GiryLopnsdC/preview
+    015. Risk Management - part 2  ->  https://drive.google.com/file/d/1NWLpLxZVbtwJBIwYmvk_vDl9xgi4TrP9/preview
+    016. Risk Management - part 3  ->  https://drive.google.com/file/d/1PDXLtO2Z2ZDSaqRvh0rJtvpzg1z00hYt/preview
+    017. Risk Management - part 4  ->  https://drive.google.com/file/d/1V6ZxJGpl83Mwm2tNlg5R99UxMfqIwo0o/preview
+    018. Risk Management - part 5  ->  https://drive.google.com/file/d/1g303lkttKzcOCAa8Z4-1z1vHIHGey_w9/preview
+    019. Risk Management - part 6  ->  https://drive.google.com/file/d/1UivWLrUgUuyMiioAEjCwkpNd1jOpVJLB/preview
+    020. Access Control Categories and Types - part 1  ->  https://drive.google.com/file/d/11PUM4cyvFI9IQetiS342ry9DaDmzKcqv/preview
+    021. Access Control Categories and Types - part 2  ->  https://drive.google.com/file/d/1g4sdYhQcdB3Tf3Bzup6D7nJRPuzZLxKr/preview
+    022. The Ethics of your organizations and ISC2  ->  https://drive.google.com/file/d/1p2um0MNFfEBNFpozFVr9bhD2zml6dV_y/preview
+    023. Governance vs. Management  ->  https://drive.google.com/file/d/1omxoCdgGuZavOXYJlBob6dcq6GAQL024/preview
+    024. Laws and regulations - part 1  ->  https://drive.google.com/file/d/1hXTZC2OJRFrfoz_3c0oj4KKvDbTF7fzY/preview
+    025. Laws and regulations - part 2  ->  https://drive.google.com/file/d/1E-FypCCnfbNHdlW4AP24Oam50hXAXwbr/preview
+    026. Security governance principles  ->  https://drive.google.com/file/d/1eFn_tc8uVSC74zMhjrlrwFXjwa_AvuMj/preview
+    027. What we covered in Domain 1  ->  https://drive.google.com/file/d/1RdZchnkryKWFxihFYfpPSQwnv5TfuZP7/preview
+
+3. Domain 2 Business Continuity Disaster Recovery and Incident Response  [s3.html]
+    001. Domain 2 - What we will be covering  ->  https://drive.google.com/file/d/1PlJUWP6zaQaj5qB5pfaEqOR5MdSPHD85/preview
+    002. BCP - Business Continuity Planning - Part 1  ->  https://drive.google.com/file/d/1jbfc8XBmbVgefRj6RXOlJN2AdTBtuISB/preview
+    003. BCP - Business Continuity Planning - Part 2  ->  https://drive.google.com/file/d/1JN6iVqYMdTfzIIjiVVQnRstY6I8Yqpna/preview
+    004. BCP - Business Continuity Planning - Part 3  ->  https://drive.google.com/file/d/1daAsL_OAJtgG_RZTPPjZRGVW42M1CGQw/preview
+    005. DRP - Disaster Recovery Planning - Part 1  ->  https://drive.google.com/file/d/1nhxselzmQitsja6Kh9rE5iY5UXC4JHu6/preview
+    006. DRP - Disaster Recovery Planning - Part 2  ->  https://drive.google.com/file/d/1T5OBUVtEMQSQBVLU65vcDKFaHKvhGVpG/preview
+    007. DRP - Disaster Recovery Planning - Part 3  ->  https://drive.google.com/file/d/1e2KVeB1bSym2vSDCukDpKa02HrKTxUHf/preview
+    008. DRP - Disaster Recovery Planning - Part 4  ->  https://drive.google.com/file/d/1MzSLTrkYHh7pfo53XbQAZieS2uiH6BlZ/preview
+    009. Incidents Response - Part 1  ->  https://drive.google.com/file/d/1bCotY66Zetsanlqsqr4R_aDmTAns-ZO-/preview
+    010. Incidents Response - Part 2  ->  https://drive.google.com/file/d/1mblcYPgLj83vfG6rtNQx3yMzLuOrn2Ie/preview
+    011. Incidents Response - Part 3  ->  https://drive.google.com/file/d/1kQry1k72dNXuAzt68dfFKt2jjikKmv0k/preview
+    012. Incidents Response - Part 4  ->  https://drive.google.com/file/d/184TBw7gCQamjwYSUXfsSq8brlwlsLB9M/preview
+    013. Incidents Response - Part 5  ->  https://drive.google.com/file/d/1j0vu0ahQTSFQvB73nAwWdZR2xR6YF6KP/preview
+    014. What we covered in Domain 2  ->  https://drive.google.com/file/d/1nmuz3yF3wFxLtK-qAmBuIouCV68hawRP/preview
+
+4. Domain 3 Access Controls Concepts  [s4.html]
+    001. Domain 3 - What we will be covering  ->  https://drive.google.com/file/d/1v9y3bYeb6BwcaYHP2RALZuBcotUBmT-8/preview
+    002. Physical Security - part 1  ->  https://drive.google.com/file/d/1F1pEdRbR9vyNJMbuje1GK2UvKG3yHyqo/preview
+    003. Physical Security - part 2  ->  https://drive.google.com/file/d/1QD3doUYd58WRqvIbh5YcEXiDXRtzmde8/preview
+    004. Physical Security - part 3  ->  https://drive.google.com/file/d/1jYvVfkY_pmuM0ag8HBFk7J_j0zaYpGn3/preview
+    005. Physical Security - part 4  ->  https://drive.google.com/file/d/1h-tYqdsNmX_Z4oblt3mkjumHO-cQyklt/preview
+    006. Physical Security - part 5  ->  https://drive.google.com/file/d/1XMw1qfGJBoODCuHuXEYKBWOIF3t6IoEi/preview
+    007. Logical Access Control - Part 1  ->  https://drive.google.com/file/d/1l59xXWOJ7UcYKW7NVwHwd0_zaFp1HM2j/preview
+    008. Logical Access Control - Part 2  ->  https://drive.google.com/file/d/1IopxbOcH7ULa_rpFo1jPQ0duW3R4yNh6/preview
+    009. Logical Access Control - Part 3  ->  https://drive.google.com/file/d/1Pj7RJ5SkdOFeOI7mVMSH6m8RSp2GDnCm/preview
+    010. Logical Access Control - Part 4  ->  https://drive.google.com/file/d/1yuuRw6HkG6KFfA9irIlr0j79tiWWFDpo/preview
+    011. Logical Access Control - Part 5  ->  https://drive.google.com/file/d/1ToSlwSC5y7fWhbP82Ocx39IR9O2PFyGF/preview
+    012. What we covered in Domain 3  ->  https://drive.google.com/file/d/1P3hFA5Hi8YrcJPMvyPornN7j5LJw-9rX/preview
+
+5. Domain 4 Network Security  [s5.html]
+    001. Domain 4 - What we will be covering  ->  https://drive.google.com/file/d/159jfQG6oGwgOjCwIZXUbS7jcqa3HGxHt/preview
+    002. Network Basics and Definitions - Part 1  ->  https://drive.google.com/file/d/1HBtsQqp8wd4i4SQxtNnXnY6R0LBqIdyp/preview
+    003. Network Basics and Definitions - Part 2  ->  https://drive.google.com/file/d/1iD4WYMqDpPvfKq67hrj8dpcV5xufzVMG/preview
+    004. The OSI Model - Part 1  ->  https://drive.google.com/file/d/1Tt7edhmqkPRFl2QD6va3U3_FtZ62vLd3/preview
+    005. The OSI Model - Part 2  ->  https://drive.google.com/file/d/1N0QWv0KdyLK9xjcYeVr3ZKvT2NQUUymH/preview
+    006. The OSI Model - Part 3  ->  https://drive.google.com/file/d/1KqzEyZRzKk9ixF21VX3WilAS7ViJ2iGG/preview
+    007. The TCPIP model  ->  https://drive.google.com/file/d/1sKXTWh3RYjnffhVWruf3sH_IGCWsMB3k/preview
+    008. IP addresses port numbers and MAC addresses - Part 1  ->  https://drive.google.com/file/d/1MfmVnXevxws95smH-lKDZ2g2ZkUXoUuz/preview
+    009. IP addresses port numbers and MAC addresses - Part 2  ->  https://drive.google.com/file/d/1GxDz-dG-rF0R_S35VhRDlH76h2IeBskv/preview
+    010. IP addresses port numbers and MAC addresses - Part 3  ->  https://drive.google.com/file/d/1RyaPxUfdyMDBuaVdMenhUZOFcZzcnxk_/preview
+    011. IP support protocols - Part 1  ->  https://drive.google.com/file/d/1Kk4IYW_D1oC5Od2-jck_4Ox2aEWCG5VW/preview
+    012. IP support protocols - Part 2  ->  https://drive.google.com/file/d/1-w7pQT4gRNFNNXAAEDaRolh_BVlOq1Gw/preview
+    013. Cables - Part 1  ->  https://drive.google.com/file/d/18KdIxzBaxXFbXWqlfoBjBohOr9_aVtHD/preview
+    014. Cables - Part 2  ->  https://drive.google.com/file/d/1iIaYuvh_B3Xb2B6rQR_P2au3cUq4xLS9/preview
+    015. LAN topologies  ->  https://drive.google.com/file/d/1ReXsKS-0sQknpUNVIwVipYmLhjWEIqa5/preview
+    016. Wi-Fi  ->  https://drive.google.com/file/d/1q5_qgP8FL4IzBoSGmYGCm3KSAlGQaejS/preview
+    017. Wireless networks - Part 1  ->  https://drive.google.com/file/d/1jMwzN8D8MwnF12eVg6jSsz5V7_LGEm_3/preview
+    018. Wireless networks - Part 2  ->  https://drive.google.com/file/d/1QAi8n9JVdDrTtUzvqB8CBsCG0fLbepSe/preview
+    019. VLANs and Routers - Part 1  ->  https://drive.google.com/file/d/1fZY-TQYcGhGOjfNBYhq2kyttQwXBvPIb/preview
+    020. VLANs and Routers - Part 2  ->  https://drive.google.com/file/d/1ppPGdcQuF_jbX29T3FaIpCJkuu8bRmSK/preview
+    021. VPNs NAC and third-party connectivity  ->  https://drive.google.com/file/d/1cwXQwJuNLSkAwOv9HbX3oX8xNihY7del/preview
+    022. SDN SD-WAN and SDX  ->  https://drive.google.com/file/d/1bAxGp06f9xATVvHExmPE5eveHIJ9Ob-D/preview
+    023. Attacks and attackers - Part 1  ->  https://drive.google.com/file/d/1udcxCL7tc3g3r7DlJ72qdsBqestcNMUV/preview
+    024. Attacks and attackers - Part 2  ->  https://drive.google.com/file/d/1yXZZFsb2TtOWCgSgttdyifahi_QvpwO8/preview
+    025. Attacks and attackers - Part 3  ->  https://drive.google.com/file/d/1U_6BoYOmnmzOHOxOo6il3n8rrU9i4-KE/preview
+    026. Intrusion Detection and Prevention systems IDS-IPS - Part 1  ->  https://drive.google.com/file/d/1gKCx9x5SanoaqgLMXicJMZmZ7kvk0nvg/preview
+    027. Intrusion Detection and Prevention systems IDS-IPS - Part 2  ->  https://drive.google.com/file/d/12F_XzNk1-EV8yys8lwon6iKrIrY-vioM/preview
+    028. SIEM and SOAR systems  ->  https://drive.google.com/file/d/1irboIgRikA2H6N-RdloFG0vDHqkFcT9j/preview
+    029. Honeynets and Honeypots  ->  https://drive.google.com/file/d/1R9wqVhLtrNVW0tKd9R1Xyt-XXd9CHgRB/preview
+    030. Firewalls - Part 1  ->  https://drive.google.com/file/d/1hKzkvdcvaF_ZwaAZvgs2HKeAnRGRZmUh/preview
+    031. Firewalls - Part 2  ->  https://drive.google.com/file/d/1cH3epgOkdsstGodUDn-65K4iu4UYzwc-/preview
+    032. 0-day attacks and exploits  ->  https://drive.google.com/file/d/10fubA2DPsRCnRX7OpOmwH12rKkzBMyCb/preview
+    033. Vulnerability Scanning  ->  https://drive.google.com/file/d/1XoHtpdLMpBEZdTbXpreoEkb8u5nt0KsV/preview
+    034. Virtualization Cloud and Distributed Computing - Part 1  ->  https://drive.google.com/file/d/1UfcyclZS8FZ8XhrLXSGQiAsPTcIdrXhX/preview
+    035. Virtualization Cloud and Distributed Computing - Part 2  ->  https://drive.google.com/file/d/11N4eW5zwt6O7-VCMT7H09WiziuzFnkX0/preview
+    036. Virtualization Cloud and Distributed Computing - Part 3  ->  https://drive.google.com/file/d/1m0aegxcUEXG9pFzlfkjbLxen3ge70hWX/preview
+    037. Virtualization Cloud and Distributed Computing - Part 4  ->  https://drive.google.com/file/d/1CFNK-fYeTViNQPoVYXYMzXwJ8cta_Jsn/preview
+    038. Virtualization Cloud and Distributed Computing - Part 5  ->  https://drive.google.com/file/d/1IymKCeb5Ql8CUEYcmj46qzFosqT-nmp9/preview
+    039. The Internet of Things IoT  ->  https://drive.google.com/file/d/1wxYll_QaNL2z4EqfLBc90wORJ3byMMV9/preview
+    040. Asset tracking and hardware hardening  ->  https://drive.google.com/file/d/1pTZE0UpXeO1w65FH1ZzkTzBHWDfho0Fr/preview
+    041. Electricity  ->  https://drive.google.com/file/d/1UBAaC41vcvX9GSpGIwZvK80t5v6W6ctQ/preview
+    042. Backups - Part 1  ->  https://drive.google.com/file/d/1JXNiy_J_tup3Y7JCjg2CoYQI29Fd2nFK/preview
+    043. Backups - Part 2  ->  https://drive.google.com/file/d/1PHTax41Je5A9R1WLbVWNC1IU257ux-RU/preview
+    044. Fault tolerance redundancy and resiliency - Part 1  ->  https://drive.google.com/file/d/12rBL-gTM8K2WMDYHqOaeqXqj_5ERynwP/preview
+    045. Fault tolerance redundancy and resiliency - Part 2  ->  https://drive.google.com/file/d/1D24LlQLK4xS4JMSc4RuWfZPbXeLsqUK1/preview
+    046. Fault tolerance redundancy and resiliency - Part 3  ->  https://drive.google.com/file/d/1A3r_zpGiTmYDTLNWzeKb7RyVw_y7qnlA/preview
+    047. Fire suppression - Part 1  ->  https://drive.google.com/file/d/1CalREWqIgac3-CWolhNmmqzAr2YOVMIY/preview
+    048. Fire suppression - Part 2  ->  https://drive.google.com/file/d/13n3UvdLIyRo_GroSKTk5biw9JGg2xIba/preview
+    049. Secure design principles - Part 1  ->  https://drive.google.com/file/d/1EvbgfyKTwTluPal8pPR0kUpS-lnTvfBe/preview
+    050. Secure design principles - Part 2  ->  https://drive.google.com/file/d/1Aksab5d_a1ppiaDkvs48k3bd1tlFNik_/preview
+    051. What we covered in Domain 4  ->  https://drive.google.com/file/d/1E5Jkzx7vomE7uhdByfUp-87Mwh9kwWBg/preview
+
+6. Domain 5 Security Operations  [s6.html]
+    001. Domain 5 - What we will be covering  ->  https://drive.google.com/file/d/1ySvwktuiboB3N15u6kjBM9L3jwZFdViv/preview
+    002. Configuration Management  ->  https://drive.google.com/file/d/12X_rg1Ngjx6gRTRdLUv3YdGhK0UVnJPF/preview
+    003. Patch Management  ->  https://drive.google.com/file/d/1DI-XtdsTAPlvyDa6mcTu8WoufL4GKcYX/preview
+    004. Change Management  ->  https://drive.google.com/file/d/1EjJe3MxY4pZJYaPZVq7tXfSlZQG2xf5H/preview
+    005. Cryptography - Part 1  ->  https://drive.google.com/file/d/1rGIMSNVwx298ubFy817IgEIG5QhV9TWp/preview
+    006. Cryptography - Part 2  ->  https://drive.google.com/file/d/1q0EEYwf7-z91kJHblgnxNR0pMxGeJ4Ob/preview
+    007. Cryptography - Part 3  ->  https://drive.google.com/file/d/1b2M86Cs1sAnZMrmkTqvTKTRhHC-yRPES/preview
+    008. Hashing  ->  https://drive.google.com/file/d/15nBld1xzUUbrKNzg_z6Z1SHQ_MLnMzcR/preview
+    009. Attacks on our cryptography  ->  https://drive.google.com/file/d/1_F89GFX3MGu0Z_IAZ-9x-z-F0J2pF51m/preview
+    010. Data handling data storage and data retention - Part 1  ->  https://drive.google.com/file/d/1ntjRMFW39hB_iN2mqexE-8-N9CJZNEMM/preview
+    011. Data handling data storage and data retention - Part 2  ->  https://drive.google.com/file/d/1ajXOYtUsD1ZA1WgaLHtDImN_717kpADr/preview
+    012. Data handling data storage and data retention - Part 3  ->  https://drive.google.com/file/d/1VFYmV6bQh9pBX1FmGH89j2UWT8b5CACm/preview
+    013. Administrative Directive Controls  ->  https://drive.google.com/file/d/1elalgJUuqzL5hVCgkS8V7WEDlTRnaRsq/preview
+    014. Training and awareness  ->  https://drive.google.com/file/d/1rb3QYPxn-vtcorwnnM82DnOqUN5A_OTL/preview
+    015. Social Engineering attacks - Part 1  ->  https://drive.google.com/file/d/1rfijkhE1KxPcMaZ07MU9QuTiTcW5spxZ/preview
+    016. Social Engineering attacks - Part 2  ->  https://drive.google.com/file/d/1WpDNAfv7wzbHutuHda_z8Du9iXvMqAD_/preview
+    017. What we covered in Domain 5  ->  https://drive.google.com/file/d/1LndZ1tuXtGLL5CbQjm7A5Ra-OTUw4UNm/preview
+
+7. Domain recaps  [s7.html]
+    001. Domain 1 recap Certified in Cybersecurity CC  ->  https://drive.google.com/file/d/1B16HBnH8JpVhNa9lW9zIJPxh6_Jm9yUq/preview
+    002. Domain 2 recap Certified in Cybersecurity CC  ->  https://drive.google.com/file/d/1we1T120vlnWpnGaVU_E-g_55ITeBYv-7/preview
+    003. Domain 3 recap Certified in Cybersecurity CC  ->  https://drive.google.com/file/d/1CeZOaqeG0BPddP1zJe9910GZ8Rryfidr/preview
+    004. Domain 4 recap Certified in Cybersecurity CC  ->  https://drive.google.com/file/d/1sb4YJTVZlS6LvA6dCwqHgXn8bh4xS6Dm/preview
+    005. Domain 5 recap Certified in Cybersecurity CC  ->  https://drive.google.com/file/d/1a1udr1I68e-Pga2VNzb6hU--NNO0cp_B/preview
+
+8. The study process material tips tricks and practice tests  [s8.html]
+    001. Why you should want to get Certified in Cybersecurity  ->  https://drive.google.com/file/d/1785MUv1sKR1a6OFi9UYjy3zBHjBWyvT2/preview
+    002. Scheduling your exam and what to expect  ->  https://drive.google.com/file/d/1y7VX1MZThyVmAOdmg3dBCjKufaV2HEUj/preview
+    003. What to expect on exam day and after  ->  https://drive.google.com/file/d/1t8v83c7V8lnFi17GobCKZCwLIqqCxe3H/preview
+    004. I passed the exam now what  ->  https://drive.google.com/file/d/1FJfqiVgw_4Pp7iXK3vuHah6o5DlwcH5X/preview
+    005. I failed the exam now what  ->  https://drive.google.com/file/d/1IiEFGYcnfAlvIB8ZjdV7x57uqqzhGge7/preview
+    006. How to approach practice questions  ->  https://drive.google.com/file/d/1opGfIPkc7ZB-l9sIz8ofcqBO2of-CE1r/preview
+    007. How to design your career and certification path  ->  https://drive.google.com/file/d/10tJptif6u7BDyEVjELIZbeJLuSPIcVSV/preview

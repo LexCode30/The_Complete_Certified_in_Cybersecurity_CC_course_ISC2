@@ -1,0 +1,1024 @@
+{
+  "name": "The Complete Certified in Cybersecurity CC course ISC2",
+  "slug": "The_Complete_Certified_in_Cybersecurity_CC_course_ISC2",
+  "url": "https://LexCode30.github.io/The_Complete_Certified_in_Cybersecurity_CC_course_ISC2/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction and download your free study guides",
+          "id": "1MMSH9NJUSnnyms5Qyd_t4pkLOyEiueA9",
+          "anchor": "v-1MMSH9NJUSnnyms5Qyd_t4pkLOyEiueA9",
+          "href": "s1.html#v-1MMSH9NJUSnnyms5Qyd_t4pkLOyEiueA9"
+        },
+        {
+          "number": 2,
+          "title": "Connect with me on Social media and the Udemy ratings system",
+          "id": "1Rf_BviQdITHq4vcZOsFBPZZKN0vIExJo",
+          "anchor": "v-1Rf_BviQdITHq4vcZOsFBPZZKN0vIExJo",
+          "href": "s1.html#v-1Rf_BviQdITHq4vcZOsFBPZZKN0vIExJo"
+        },
+        {
+          "number": 3,
+          "title": "How to get the most out of my courses and the Udemy interface",
+          "id": "1r_Pa1iZJM20s89dEAUxKEr37FgWUoivX",
+          "anchor": "v-1r_Pa1iZJM20s89dEAUxKEr37FgWUoivX",
+          "href": "s1.html#v-1r_Pa1iZJM20s89dEAUxKEr37FgWUoivX"
+        },
+        {
+          "number": 4,
+          "title": "How to approach certification studying",
+          "id": "1VBq-XD9W0D82jjzxQceFc2v6ciJwVTsJ",
+          "anchor": "v-1VBq-XD9W0D82jjzxQceFc2v6ciJwVTsJ",
+          "href": "s1.html#v-1VBq-XD9W0D82jjzxQceFc2v6ciJwVTsJ"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Domain 1 Security Principles",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain 1 - What we will be covering",
+          "id": "1ko3rNDftlQ1xusumphyivEh5n5JWNQiU",
+          "anchor": "v-1ko3rNDftlQ1xusumphyivEh5n5JWNQiU",
+          "href": "s2.html#v-1ko3rNDftlQ1xusumphyivEh5n5JWNQiU"
+        },
+        {
+          "number": 2,
+          "title": "The differences between Information Security IT Security and Cybersecurity",
+          "id": "1RafPvZ2jdTGfY90kaYnp1AJxJBtgWgEs",
+          "anchor": "v-1RafPvZ2jdTGfY90kaYnp1AJxJBtgWgEs",
+          "href": "s2.html#v-1RafPvZ2jdTGfY90kaYnp1AJxJBtgWgEs"
+        },
+        {
+          "number": 3,
+          "title": "The CIA Triad - Confidentiality Integrity and Availability - part 1",
+          "id": "1VoFyczcpfFs7ZfY4Xx94HVbD9NmCm-b7",
+          "anchor": "v-1VoFyczcpfFs7ZfY4Xx94HVbD9NmCm-b7",
+          "href": "s2.html#v-1VoFyczcpfFs7ZfY4Xx94HVbD9NmCm-b7"
+        },
+        {
+          "number": 4,
+          "title": "The CIA Triad - Confidentiality Integrity and Availability - part 2",
+          "id": "1XC9UBRAQ6JjDCPDGN-PqY9dIxkqAq1Zs",
+          "anchor": "v-1XC9UBRAQ6JjDCPDGN-PqY9dIxkqAq1Zs",
+          "href": "s2.html#v-1XC9UBRAQ6JjDCPDGN-PqY9dIxkqAq1Zs"
+        },
+        {
+          "number": 5,
+          "title": "The CIA Triad - Confidentiality Integrity and Availability - part 3",
+          "id": "1u4QQu1g1aLj2AcAAXbwwrLG4d3XSE0xW",
+          "anchor": "v-1u4QQu1g1aLj2AcAAXbwwrLG4d3XSE0xW",
+          "href": "s2.html#v-1u4QQu1g1aLj2AcAAXbwwrLG4d3XSE0xW"
+        },
+        {
+          "number": 6,
+          "title": "The CIA Triad - Confidentiality Integrity and Availability - part 4",
+          "id": "1QrhAkQg2drT0y12Cx6luncaT0ecs5zih",
+          "anchor": "v-1QrhAkQg2drT0y12Cx6luncaT0ecs5zih",
+          "href": "s2.html#v-1QrhAkQg2drT0y12Cx6luncaT0ecs5zih"
+        },
+        {
+          "number": 7,
+          "title": "The CIA Triad - Confidentiality Integrity and Availability - part 5",
+          "id": "1pe9qoeO7nyjdHJ6JifiMDu8aq1c-jKIt",
+          "anchor": "v-1pe9qoeO7nyjdHJ6JifiMDu8aq1c-jKIt",
+          "href": "s2.html#v-1pe9qoeO7nyjdHJ6JifiMDu8aq1c-jKIt"
+        },
+        {
+          "number": 8,
+          "title": "IAAA - Identification Authentication Authorization and Accountability - part 1",
+          "id": "1ryg1cCZjvqA9wCMbVCl-o60NZKIaE3au",
+          "anchor": "v-1ryg1cCZjvqA9wCMbVCl-o60NZKIaE3au",
+          "href": "s2.html#v-1ryg1cCZjvqA9wCMbVCl-o60NZKIaE3au"
+        },
+        {
+          "number": 9,
+          "title": "IAAA - Identification Authentication Authorization and Accountability - part 2",
+          "id": "1ajdbRKYlyj9J-vOeerUCiEiStlPy05IT",
+          "anchor": "v-1ajdbRKYlyj9J-vOeerUCiEiStlPy05IT",
+          "href": "s2.html#v-1ajdbRKYlyj9J-vOeerUCiEiStlPy05IT"
+        },
+        {
+          "number": 10,
+          "title": "IAAA - Identification Authentication Authorization and Accountability - part 3",
+          "id": "1ByKB2y8yI3RABQG4uCvaqKOzmXr4e2U7",
+          "anchor": "v-1ByKB2y8yI3RABQG4uCvaqKOzmXr4e2U7",
+          "href": "s2.html#v-1ByKB2y8yI3RABQG4uCvaqKOzmXr4e2U7"
+        },
+        {
+          "number": 11,
+          "title": "IAAA - Identification Authentication Authorization and Accountability - part 4",
+          "id": "1U76wAGxRVg8avCzZ2FX7kwoZfDfdv3MB",
+          "anchor": "v-1U76wAGxRVg8avCzZ2FX7kwoZfDfdv3MB",
+          "href": "s2.html#v-1U76wAGxRVg8avCzZ2FX7kwoZfDfdv3MB"
+        },
+        {
+          "number": 12,
+          "title": "IAAA - Identification Authentication Authorization and Accountability - part 5",
+          "id": "1Rk_zhNlzNyV4yHpHmRuyTPIN30WpN32f",
+          "anchor": "v-1Rk_zhNlzNyV4yHpHmRuyTPIN30WpN32f",
+          "href": "s2.html#v-1Rk_zhNlzNyV4yHpHmRuyTPIN30WpN32f"
+        },
+        {
+          "number": 13,
+          "title": "Privacy",
+          "id": "1TcYXwzxPfqIZCcc32rusvHwAd88xUbAP",
+          "anchor": "v-1TcYXwzxPfqIZCcc32rusvHwAd88xUbAP",
+          "href": "s2.html#v-1TcYXwzxPfqIZCcc32rusvHwAd88xUbAP"
+        },
+        {
+          "number": 14,
+          "title": "Risk Management - part 1",
+          "id": "1RxmZ16wugZ6I9uwwD5um1GiryLopnsdC",
+          "anchor": "v-1RxmZ16wugZ6I9uwwD5um1GiryLopnsdC",
+          "href": "s2.html#v-1RxmZ16wugZ6I9uwwD5um1GiryLopnsdC"
+        },
+        {
+          "number": 15,
+          "title": "Risk Management - part 2",
+          "id": "1NWLpLxZVbtwJBIwYmvk_vDl9xgi4TrP9",
+          "anchor": "v-1NWLpLxZVbtwJBIwYmvk_vDl9xgi4TrP9",
+          "href": "s2.html#v-1NWLpLxZVbtwJBIwYmvk_vDl9xgi4TrP9"
+        },
+        {
+          "number": 16,
+          "title": "Risk Management - part 3",
+          "id": "1PDXLtO2Z2ZDSaqRvh0rJtvpzg1z00hYt",
+          "anchor": "v-1PDXLtO2Z2ZDSaqRvh0rJtvpzg1z00hYt",
+          "href": "s2.html#v-1PDXLtO2Z2ZDSaqRvh0rJtvpzg1z00hYt"
+        },
+        {
+          "number": 17,
+          "title": "Risk Management - part 4",
+          "id": "1V6ZxJGpl83Mwm2tNlg5R99UxMfqIwo0o",
+          "anchor": "v-1V6ZxJGpl83Mwm2tNlg5R99UxMfqIwo0o",
+          "href": "s2.html#v-1V6ZxJGpl83Mwm2tNlg5R99UxMfqIwo0o"
+        },
+        {
+          "number": 18,
+          "title": "Risk Management - part 5",
+          "id": "1g303lkttKzcOCAa8Z4-1z1vHIHGey_w9",
+          "anchor": "v-1g303lkttKzcOCAa8Z4-1z1vHIHGey_w9",
+          "href": "s2.html#v-1g303lkttKzcOCAa8Z4-1z1vHIHGey_w9"
+        },
+        {
+          "number": 19,
+          "title": "Risk Management - part 6",
+          "id": "1UivWLrUgUuyMiioAEjCwkpNd1jOpVJLB",
+          "anchor": "v-1UivWLrUgUuyMiioAEjCwkpNd1jOpVJLB",
+          "href": "s2.html#v-1UivWLrUgUuyMiioAEjCwkpNd1jOpVJLB"
+        },
+        {
+          "number": 20,
+          "title": "Access Control Categories and Types - part 1",
+          "id": "11PUM4cyvFI9IQetiS342ry9DaDmzKcqv",
+          "anchor": "v-11PUM4cyvFI9IQetiS342ry9DaDmzKcqv",
+          "href": "s2.html#v-11PUM4cyvFI9IQetiS342ry9DaDmzKcqv"
+        },
+        {
+          "number": 21,
+          "title": "Access Control Categories and Types - part 2",
+          "id": "1g4sdYhQcdB3Tf3Bzup6D7nJRPuzZLxKr",
+          "anchor": "v-1g4sdYhQcdB3Tf3Bzup6D7nJRPuzZLxKr",
+          "href": "s2.html#v-1g4sdYhQcdB3Tf3Bzup6D7nJRPuzZLxKr"
+        },
+        {
+          "number": 22,
+          "title": "The Ethics of your organizations and ISC2",
+          "id": "1p2um0MNFfEBNFpozFVr9bhD2zml6dV_y",
+          "anchor": "v-1p2um0MNFfEBNFpozFVr9bhD2zml6dV_y",
+          "href": "s2.html#v-1p2um0MNFfEBNFpozFVr9bhD2zml6dV_y"
+        },
+        {
+          "number": 23,
+          "title": "Governance vs. Management",
+          "id": "1omxoCdgGuZavOXYJlBob6dcq6GAQL024",
+          "anchor": "v-1omxoCdgGuZavOXYJlBob6dcq6GAQL024",
+          "href": "s2.html#v-1omxoCdgGuZavOXYJlBob6dcq6GAQL024"
+        },
+        {
+          "number": 24,
+          "title": "Laws and regulations - part 1",
+          "id": "1hXTZC2OJRFrfoz_3c0oj4KKvDbTF7fzY",
+          "anchor": "v-1hXTZC2OJRFrfoz_3c0oj4KKvDbTF7fzY",
+          "href": "s2.html#v-1hXTZC2OJRFrfoz_3c0oj4KKvDbTF7fzY"
+        },
+        {
+          "number": 25,
+          "title": "Laws and regulations - part 2",
+          "id": "1E-FypCCnfbNHdlW4AP24Oam50hXAXwbr",
+          "anchor": "v-1E-FypCCnfbNHdlW4AP24Oam50hXAXwbr",
+          "href": "s2.html#v-1E-FypCCnfbNHdlW4AP24Oam50hXAXwbr"
+        },
+        {
+          "number": 26,
+          "title": "Security governance principles",
+          "id": "1eFn_tc8uVSC74zMhjrlrwFXjwa_AvuMj",
+          "anchor": "v-1eFn_tc8uVSC74zMhjrlrwFXjwa_AvuMj",
+          "href": "s2.html#v-1eFn_tc8uVSC74zMhjrlrwFXjwa_AvuMj"
+        },
+        {
+          "number": 27,
+          "title": "What we covered in Domain 1",
+          "id": "1RdZchnkryKWFxihFYfpPSQwnv5TfuZP7",
+          "anchor": "v-1RdZchnkryKWFxihFYfpPSQwnv5TfuZP7",
+          "href": "s2.html#v-1RdZchnkryKWFxihFYfpPSQwnv5TfuZP7"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Domain 2 Business Continuity Disaster Recovery and Incident Response",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain 2 - What we will be covering",
+          "id": "1PlJUWP6zaQaj5qB5pfaEqOR5MdSPHD85",
+          "anchor": "v-1PlJUWP6zaQaj5qB5pfaEqOR5MdSPHD85",
+          "href": "s3.html#v-1PlJUWP6zaQaj5qB5pfaEqOR5MdSPHD85"
+        },
+        {
+          "number": 2,
+          "title": "BCP - Business Continuity Planning - Part 1",
+          "id": "1jbfc8XBmbVgefRj6RXOlJN2AdTBtuISB",
+          "anchor": "v-1jbfc8XBmbVgefRj6RXOlJN2AdTBtuISB",
+          "href": "s3.html#v-1jbfc8XBmbVgefRj6RXOlJN2AdTBtuISB"
+        },
+        {
+          "number": 3,
+          "title": "BCP - Business Continuity Planning - Part 2",
+          "id": "1JN6iVqYMdTfzIIjiVVQnRstY6I8Yqpna",
+          "anchor": "v-1JN6iVqYMdTfzIIjiVVQnRstY6I8Yqpna",
+          "href": "s3.html#v-1JN6iVqYMdTfzIIjiVVQnRstY6I8Yqpna"
+        },
+        {
+          "number": 4,
+          "title": "BCP - Business Continuity Planning - Part 3",
+          "id": "1daAsL_OAJtgG_RZTPPjZRGVW42M1CGQw",
+          "anchor": "v-1daAsL_OAJtgG_RZTPPjZRGVW42M1CGQw",
+          "href": "s3.html#v-1daAsL_OAJtgG_RZTPPjZRGVW42M1CGQw"
+        },
+        {
+          "number": 5,
+          "title": "DRP - Disaster Recovery Planning - Part 1",
+          "id": "1nhxselzmQitsja6Kh9rE5iY5UXC4JHu6",
+          "anchor": "v-1nhxselzmQitsja6Kh9rE5iY5UXC4JHu6",
+          "href": "s3.html#v-1nhxselzmQitsja6Kh9rE5iY5UXC4JHu6"
+        },
+        {
+          "number": 6,
+          "title": "DRP - Disaster Recovery Planning - Part 2",
+          "id": "1T5OBUVtEMQSQBVLU65vcDKFaHKvhGVpG",
+          "anchor": "v-1T5OBUVtEMQSQBVLU65vcDKFaHKvhGVpG",
+          "href": "s3.html#v-1T5OBUVtEMQSQBVLU65vcDKFaHKvhGVpG"
+        },
+        {
+          "number": 7,
+          "title": "DRP - Disaster Recovery Planning - Part 3",
+          "id": "1e2KVeB1bSym2vSDCukDpKa02HrKTxUHf",
+          "anchor": "v-1e2KVeB1bSym2vSDCukDpKa02HrKTxUHf",
+          "href": "s3.html#v-1e2KVeB1bSym2vSDCukDpKa02HrKTxUHf"
+        },
+        {
+          "number": 8,
+          "title": "DRP - Disaster Recovery Planning - Part 4",
+          "id": "1MzSLTrkYHh7pfo53XbQAZieS2uiH6BlZ",
+          "anchor": "v-1MzSLTrkYHh7pfo53XbQAZieS2uiH6BlZ",
+          "href": "s3.html#v-1MzSLTrkYHh7pfo53XbQAZieS2uiH6BlZ"
+        },
+        {
+          "number": 9,
+          "title": "Incidents Response - Part 1",
+          "id": "1bCotY66Zetsanlqsqr4R_aDmTAns-ZO-",
+          "anchor": "v-1bCotY66Zetsanlqsqr4R_aDmTAns-ZO-",
+          "href": "s3.html#v-1bCotY66Zetsanlqsqr4R_aDmTAns-ZO-"
+        },
+        {
+          "number": 10,
+          "title": "Incidents Response - Part 2",
+          "id": "1mblcYPgLj83vfG6rtNQx3yMzLuOrn2Ie",
+          "anchor": "v-1mblcYPgLj83vfG6rtNQx3yMzLuOrn2Ie",
+          "href": "s3.html#v-1mblcYPgLj83vfG6rtNQx3yMzLuOrn2Ie"
+        },
+        {
+          "number": 11,
+          "title": "Incidents Response - Part 3",
+          "id": "1kQry1k72dNXuAzt68dfFKt2jjikKmv0k",
+          "anchor": "v-1kQry1k72dNXuAzt68dfFKt2jjikKmv0k",
+          "href": "s3.html#v-1kQry1k72dNXuAzt68dfFKt2jjikKmv0k"
+        },
+        {
+          "number": 12,
+          "title": "Incidents Response - Part 4",
+          "id": "184TBw7gCQamjwYSUXfsSq8brlwlsLB9M",
+          "anchor": "v-184TBw7gCQamjwYSUXfsSq8brlwlsLB9M",
+          "href": "s3.html#v-184TBw7gCQamjwYSUXfsSq8brlwlsLB9M"
+        },
+        {
+          "number": 13,
+          "title": "Incidents Response - Part 5",
+          "id": "1j0vu0ahQTSFQvB73nAwWdZR2xR6YF6KP",
+          "anchor": "v-1j0vu0ahQTSFQvB73nAwWdZR2xR6YF6KP",
+          "href": "s3.html#v-1j0vu0ahQTSFQvB73nAwWdZR2xR6YF6KP"
+        },
+        {
+          "number": 14,
+          "title": "What we covered in Domain 2",
+          "id": "1nmuz3yF3wFxLtK-qAmBuIouCV68hawRP",
+          "anchor": "v-1nmuz3yF3wFxLtK-qAmBuIouCV68hawRP",
+          "href": "s3.html#v-1nmuz3yF3wFxLtK-qAmBuIouCV68hawRP"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Domain 3 Access Controls Concepts",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain 3 - What we will be covering",
+          "id": "1v9y3bYeb6BwcaYHP2RALZuBcotUBmT-8",
+          "anchor": "v-1v9y3bYeb6BwcaYHP2RALZuBcotUBmT-8",
+          "href": "s4.html#v-1v9y3bYeb6BwcaYHP2RALZuBcotUBmT-8"
+        },
+        {
+          "number": 2,
+          "title": "Physical Security - part 1",
+          "id": "1F1pEdRbR9vyNJMbuje1GK2UvKG3yHyqo",
+          "anchor": "v-1F1pEdRbR9vyNJMbuje1GK2UvKG3yHyqo",
+          "href": "s4.html#v-1F1pEdRbR9vyNJMbuje1GK2UvKG3yHyqo"
+        },
+        {
+          "number": 3,
+          "title": "Physical Security - part 2",
+          "id": "1QD3doUYd58WRqvIbh5YcEXiDXRtzmde8",
+          "anchor": "v-1QD3doUYd58WRqvIbh5YcEXiDXRtzmde8",
+          "href": "s4.html#v-1QD3doUYd58WRqvIbh5YcEXiDXRtzmde8"
+        },
+        {
+          "number": 4,
+          "title": "Physical Security - part 3",
+          "id": "1jYvVfkY_pmuM0ag8HBFk7J_j0zaYpGn3",
+          "anchor": "v-1jYvVfkY_pmuM0ag8HBFk7J_j0zaYpGn3",
+          "href": "s4.html#v-1jYvVfkY_pmuM0ag8HBFk7J_j0zaYpGn3"
+        },
+        {
+          "number": 5,
+          "title": "Physical Security - part 4",
+          "id": "1h-tYqdsNmX_Z4oblt3mkjumHO-cQyklt",
+          "anchor": "v-1h-tYqdsNmX_Z4oblt3mkjumHO-cQyklt",
+          "href": "s4.html#v-1h-tYqdsNmX_Z4oblt3mkjumHO-cQyklt"
+        },
+        {
+          "number": 6,
+          "title": "Physical Security - part 5",
+          "id": "1XMw1qfGJBoODCuHuXEYKBWOIF3t6IoEi",
+          "anchor": "v-1XMw1qfGJBoODCuHuXEYKBWOIF3t6IoEi",
+          "href": "s4.html#v-1XMw1qfGJBoODCuHuXEYKBWOIF3t6IoEi"
+        },
+        {
+          "number": 7,
+          "title": "Logical Access Control - Part 1",
+          "id": "1l59xXWOJ7UcYKW7NVwHwd0_zaFp1HM2j",
+          "anchor": "v-1l59xXWOJ7UcYKW7NVwHwd0_zaFp1HM2j",
+          "href": "s4.html#v-1l59xXWOJ7UcYKW7NVwHwd0_zaFp1HM2j"
+        },
+        {
+          "number": 8,
+          "title": "Logical Access Control - Part 2",
+          "id": "1IopxbOcH7ULa_rpFo1jPQ0duW3R4yNh6",
+          "anchor": "v-1IopxbOcH7ULa_rpFo1jPQ0duW3R4yNh6",
+          "href": "s4.html#v-1IopxbOcH7ULa_rpFo1jPQ0duW3R4yNh6"
+        },
+        {
+          "number": 9,
+          "title": "Logical Access Control - Part 3",
+          "id": "1Pj7RJ5SkdOFeOI7mVMSH6m8RSp2GDnCm",
+          "anchor": "v-1Pj7RJ5SkdOFeOI7mVMSH6m8RSp2GDnCm",
+          "href": "s4.html#v-1Pj7RJ5SkdOFeOI7mVMSH6m8RSp2GDnCm"
+        },
+        {
+          "number": 10,
+          "title": "Logical Access Control - Part 4",
+          "id": "1yuuRw6HkG6KFfA9irIlr0j79tiWWFDpo",
+          "anchor": "v-1yuuRw6HkG6KFfA9irIlr0j79tiWWFDpo",
+          "href": "s4.html#v-1yuuRw6HkG6KFfA9irIlr0j79tiWWFDpo"
+        },
+        {
+          "number": 11,
+          "title": "Logical Access Control - Part 5",
+          "id": "1ToSlwSC5y7fWhbP82Ocx39IR9O2PFyGF",
+          "anchor": "v-1ToSlwSC5y7fWhbP82Ocx39IR9O2PFyGF",
+          "href": "s4.html#v-1ToSlwSC5y7fWhbP82Ocx39IR9O2PFyGF"
+        },
+        {
+          "number": 12,
+          "title": "What we covered in Domain 3",
+          "id": "1P3hFA5Hi8YrcJPMvyPornN7j5LJw-9rX",
+          "anchor": "v-1P3hFA5Hi8YrcJPMvyPornN7j5LJw-9rX",
+          "href": "s4.html#v-1P3hFA5Hi8YrcJPMvyPornN7j5LJw-9rX"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Domain 4 Network Security",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain 4 - What we will be covering",
+          "id": "159jfQG6oGwgOjCwIZXUbS7jcqa3HGxHt",
+          "anchor": "v-159jfQG6oGwgOjCwIZXUbS7jcqa3HGxHt",
+          "href": "s5.html#v-159jfQG6oGwgOjCwIZXUbS7jcqa3HGxHt"
+        },
+        {
+          "number": 2,
+          "title": "Network Basics and Definitions - Part 1",
+          "id": "1HBtsQqp8wd4i4SQxtNnXnY6R0LBqIdyp",
+          "anchor": "v-1HBtsQqp8wd4i4SQxtNnXnY6R0LBqIdyp",
+          "href": "s5.html#v-1HBtsQqp8wd4i4SQxtNnXnY6R0LBqIdyp"
+        },
+        {
+          "number": 3,
+          "title": "Network Basics and Definitions - Part 2",
+          "id": "1iD4WYMqDpPvfKq67hrj8dpcV5xufzVMG",
+          "anchor": "v-1iD4WYMqDpPvfKq67hrj8dpcV5xufzVMG",
+          "href": "s5.html#v-1iD4WYMqDpPvfKq67hrj8dpcV5xufzVMG"
+        },
+        {
+          "number": 4,
+          "title": "The OSI Model - Part 1",
+          "id": "1Tt7edhmqkPRFl2QD6va3U3_FtZ62vLd3",
+          "anchor": "v-1Tt7edhmqkPRFl2QD6va3U3_FtZ62vLd3",
+          "href": "s5.html#v-1Tt7edhmqkPRFl2QD6va3U3_FtZ62vLd3"
+        },
+        {
+          "number": 5,
+          "title": "The OSI Model - Part 2",
+          "id": "1N0QWv0KdyLK9xjcYeVr3ZKvT2NQUUymH",
+          "anchor": "v-1N0QWv0KdyLK9xjcYeVr3ZKvT2NQUUymH",
+          "href": "s5.html#v-1N0QWv0KdyLK9xjcYeVr3ZKvT2NQUUymH"
+        },
+        {
+          "number": 6,
+          "title": "The OSI Model - Part 3",
+          "id": "1KqzEyZRzKk9ixF21VX3WilAS7ViJ2iGG",
+          "anchor": "v-1KqzEyZRzKk9ixF21VX3WilAS7ViJ2iGG",
+          "href": "s5.html#v-1KqzEyZRzKk9ixF21VX3WilAS7ViJ2iGG"
+        },
+        {
+          "number": 7,
+          "title": "The TCPIP model",
+          "id": "1sKXTWh3RYjnffhVWruf3sH_IGCWsMB3k",
+          "anchor": "v-1sKXTWh3RYjnffhVWruf3sH_IGCWsMB3k",
+          "href": "s5.html#v-1sKXTWh3RYjnffhVWruf3sH_IGCWsMB3k"
+        },
+        {
+          "number": 8,
+          "title": "IP addresses port numbers and MAC addresses - Part 1",
+          "id": "1MfmVnXevxws95smH-lKDZ2g2ZkUXoUuz",
+          "anchor": "v-1MfmVnXevxws95smH-lKDZ2g2ZkUXoUuz",
+          "href": "s5.html#v-1MfmVnXevxws95smH-lKDZ2g2ZkUXoUuz"
+        },
+        {
+          "number": 9,
+          "title": "IP addresses port numbers and MAC addresses - Part 2",
+          "id": "1GxDz-dG-rF0R_S35VhRDlH76h2IeBskv",
+          "anchor": "v-1GxDz-dG-rF0R_S35VhRDlH76h2IeBskv",
+          "href": "s5.html#v-1GxDz-dG-rF0R_S35VhRDlH76h2IeBskv"
+        },
+        {
+          "number": 10,
+          "title": "IP addresses port numbers and MAC addresses - Part 3",
+          "id": "1RyaPxUfdyMDBuaVdMenhUZOFcZzcnxk_",
+          "anchor": "v-1RyaPxUfdyMDBuaVdMenhUZOFcZzcnxk_",
+          "href": "s5.html#v-1RyaPxUfdyMDBuaVdMenhUZOFcZzcnxk_"
+        },
+        {
+          "number": 11,
+          "title": "IP support protocols - Part 1",
+          "id": "1Kk4IYW_D1oC5Od2-jck_4Ox2aEWCG5VW",
+          "anchor": "v-1Kk4IYW_D1oC5Od2-jck_4Ox2aEWCG5VW",
+          "href": "s5.html#v-1Kk4IYW_D1oC5Od2-jck_4Ox2aEWCG5VW"
+        },
+        {
+          "number": 12,
+          "title": "IP support protocols - Part 2",
+          "id": "1-w7pQT4gRNFNNXAAEDaRolh_BVlOq1Gw",
+          "anchor": "v-1-w7pQT4gRNFNNXAAEDaRolh_BVlOq1Gw",
+          "href": "s5.html#v-1-w7pQT4gRNFNNXAAEDaRolh_BVlOq1Gw"
+        },
+        {
+          "number": 13,
+          "title": "Cables - Part 1",
+          "id": "18KdIxzBaxXFbXWqlfoBjBohOr9_aVtHD",
+          "anchor": "v-18KdIxzBaxXFbXWqlfoBjBohOr9_aVtHD",
+          "href": "s5.html#v-18KdIxzBaxXFbXWqlfoBjBohOr9_aVtHD"
+        },
+        {
+          "number": 14,
+          "title": "Cables - Part 2",
+          "id": "1iIaYuvh_B3Xb2B6rQR_P2au3cUq4xLS9",
+          "anchor": "v-1iIaYuvh_B3Xb2B6rQR_P2au3cUq4xLS9",
+          "href": "s5.html#v-1iIaYuvh_B3Xb2B6rQR_P2au3cUq4xLS9"
+        },
+        {
+          "number": 15,
+          "title": "LAN topologies",
+          "id": "1ReXsKS-0sQknpUNVIwVipYmLhjWEIqa5",
+          "anchor": "v-1ReXsKS-0sQknpUNVIwVipYmLhjWEIqa5",
+          "href": "s5.html#v-1ReXsKS-0sQknpUNVIwVipYmLhjWEIqa5"
+        },
+        {
+          "number": 16,
+          "title": "Wi-Fi",
+          "id": "1q5_qgP8FL4IzBoSGmYGCm3KSAlGQaejS",
+          "anchor": "v-1q5_qgP8FL4IzBoSGmYGCm3KSAlGQaejS",
+          "href": "s5.html#v-1q5_qgP8FL4IzBoSGmYGCm3KSAlGQaejS"
+        },
+        {
+          "number": 17,
+          "title": "Wireless networks - Part 1",
+          "id": "1jMwzN8D8MwnF12eVg6jSsz5V7_LGEm_3",
+          "anchor": "v-1jMwzN8D8MwnF12eVg6jSsz5V7_LGEm_3",
+          "href": "s5.html#v-1jMwzN8D8MwnF12eVg6jSsz5V7_LGEm_3"
+        },
+        {
+          "number": 18,
+          "title": "Wireless networks - Part 2",
+          "id": "1QAi8n9JVdDrTtUzvqB8CBsCG0fLbepSe",
+          "anchor": "v-1QAi8n9JVdDrTtUzvqB8CBsCG0fLbepSe",
+          "href": "s5.html#v-1QAi8n9JVdDrTtUzvqB8CBsCG0fLbepSe"
+        },
+        {
+          "number": 19,
+          "title": "VLANs and Routers - Part 1",
+          "id": "1fZY-TQYcGhGOjfNBYhq2kyttQwXBvPIb",
+          "anchor": "v-1fZY-TQYcGhGOjfNBYhq2kyttQwXBvPIb",
+          "href": "s5.html#v-1fZY-TQYcGhGOjfNBYhq2kyttQwXBvPIb"
+        },
+        {
+          "number": 20,
+          "title": "VLANs and Routers - Part 2",
+          "id": "1ppPGdcQuF_jbX29T3FaIpCJkuu8bRmSK",
+          "anchor": "v-1ppPGdcQuF_jbX29T3FaIpCJkuu8bRmSK",
+          "href": "s5.html#v-1ppPGdcQuF_jbX29T3FaIpCJkuu8bRmSK"
+        },
+        {
+          "number": 21,
+          "title": "VPNs NAC and third-party connectivity",
+          "id": "1cwXQwJuNLSkAwOv9HbX3oX8xNihY7del",
+          "anchor": "v-1cwXQwJuNLSkAwOv9HbX3oX8xNihY7del",
+          "href": "s5.html#v-1cwXQwJuNLSkAwOv9HbX3oX8xNihY7del"
+        },
+        {
+          "number": 22,
+          "title": "SDN SD-WAN and SDX",
+          "id": "1bAxGp06f9xATVvHExmPE5eveHIJ9Ob-D",
+          "anchor": "v-1bAxGp06f9xATVvHExmPE5eveHIJ9Ob-D",
+          "href": "s5.html#v-1bAxGp06f9xATVvHExmPE5eveHIJ9Ob-D"
+        },
+        {
+          "number": 23,
+          "title": "Attacks and attackers - Part 1",
+          "id": "1udcxCL7tc3g3r7DlJ72qdsBqestcNMUV",
+          "anchor": "v-1udcxCL7tc3g3r7DlJ72qdsBqestcNMUV",
+          "href": "s5.html#v-1udcxCL7tc3g3r7DlJ72qdsBqestcNMUV"
+        },
+        {
+          "number": 24,
+          "title": "Attacks and attackers - Part 2",
+          "id": "1yXZZFsb2TtOWCgSgttdyifahi_QvpwO8",
+          "anchor": "v-1yXZZFsb2TtOWCgSgttdyifahi_QvpwO8",
+          "href": "s5.html#v-1yXZZFsb2TtOWCgSgttdyifahi_QvpwO8"
+        },
+        {
+          "number": 25,
+          "title": "Attacks and attackers - Part 3",
+          "id": "1U_6BoYOmnmzOHOxOo6il3n8rrU9i4-KE",
+          "anchor": "v-1U_6BoYOmnmzOHOxOo6il3n8rrU9i4-KE",
+          "href": "s5.html#v-1U_6BoYOmnmzOHOxOo6il3n8rrU9i4-KE"
+        },
+        {
+          "number": 26,
+          "title": "Intrusion Detection and Prevention systems IDS-IPS - Part 1",
+          "id": "1gKCx9x5SanoaqgLMXicJMZmZ7kvk0nvg",
+          "anchor": "v-1gKCx9x5SanoaqgLMXicJMZmZ7kvk0nvg",
+          "href": "s5.html#v-1gKCx9x5SanoaqgLMXicJMZmZ7kvk0nvg"
+        },
+        {
+          "number": 27,
+          "title": "Intrusion Detection and Prevention systems IDS-IPS - Part 2",
+          "id": "12F_XzNk1-EV8yys8lwon6iKrIrY-vioM",
+          "anchor": "v-12F_XzNk1-EV8yys8lwon6iKrIrY-vioM",
+          "href": "s5.html#v-12F_XzNk1-EV8yys8lwon6iKrIrY-vioM"
+        },
+        {
+          "number": 28,
+          "title": "SIEM and SOAR systems",
+          "id": "1irboIgRikA2H6N-RdloFG0vDHqkFcT9j",
+          "anchor": "v-1irboIgRikA2H6N-RdloFG0vDHqkFcT9j",
+          "href": "s5.html#v-1irboIgRikA2H6N-RdloFG0vDHqkFcT9j"
+        },
+        {
+          "number": 29,
+          "title": "Honeynets and Honeypots",
+          "id": "1R9wqVhLtrNVW0tKd9R1Xyt-XXd9CHgRB",
+          "anchor": "v-1R9wqVhLtrNVW0tKd9R1Xyt-XXd9CHgRB",
+          "href": "s5.html#v-1R9wqVhLtrNVW0tKd9R1Xyt-XXd9CHgRB"
+        },
+        {
+          "number": 30,
+          "title": "Firewalls - Part 1",
+          "id": "1hKzkvdcvaF_ZwaAZvgs2HKeAnRGRZmUh",
+          "anchor": "v-1hKzkvdcvaF_ZwaAZvgs2HKeAnRGRZmUh",
+          "href": "s5.html#v-1hKzkvdcvaF_ZwaAZvgs2HKeAnRGRZmUh"
+        },
+        {
+          "number": 31,
+          "title": "Firewalls - Part 2",
+          "id": "1cH3epgOkdsstGodUDn-65K4iu4UYzwc-",
+          "anchor": "v-1cH3epgOkdsstGodUDn-65K4iu4UYzwc-",
+          "href": "s5.html#v-1cH3epgOkdsstGodUDn-65K4iu4UYzwc-"
+        },
+        {
+          "number": 32,
+          "title": "0-day attacks and exploits",
+          "id": "10fubA2DPsRCnRX7OpOmwH12rKkzBMyCb",
+          "anchor": "v-10fubA2DPsRCnRX7OpOmwH12rKkzBMyCb",
+          "href": "s5.html#v-10fubA2DPsRCnRX7OpOmwH12rKkzBMyCb"
+        },
+        {
+          "number": 33,
+          "title": "Vulnerability Scanning",
+          "id": "1XoHtpdLMpBEZdTbXpreoEkb8u5nt0KsV",
+          "anchor": "v-1XoHtpdLMpBEZdTbXpreoEkb8u5nt0KsV",
+          "href": "s5.html#v-1XoHtpdLMpBEZdTbXpreoEkb8u5nt0KsV"
+        },
+        {
+          "number": 34,
+          "title": "Virtualization Cloud and Distributed Computing - Part 1",
+          "id": "1UfcyclZS8FZ8XhrLXSGQiAsPTcIdrXhX",
+          "anchor": "v-1UfcyclZS8FZ8XhrLXSGQiAsPTcIdrXhX",
+          "href": "s5.html#v-1UfcyclZS8FZ8XhrLXSGQiAsPTcIdrXhX"
+        },
+        {
+          "number": 35,
+          "title": "Virtualization Cloud and Distributed Computing - Part 2",
+          "id": "11N4eW5zwt6O7-VCMT7H09WiziuzFnkX0",
+          "anchor": "v-11N4eW5zwt6O7-VCMT7H09WiziuzFnkX0",
+          "href": "s5.html#v-11N4eW5zwt6O7-VCMT7H09WiziuzFnkX0"
+        },
+        {
+          "number": 36,
+          "title": "Virtualization Cloud and Distributed Computing - Part 3",
+          "id": "1m0aegxcUEXG9pFzlfkjbLxen3ge70hWX",
+          "anchor": "v-1m0aegxcUEXG9pFzlfkjbLxen3ge70hWX",
+          "href": "s5.html#v-1m0aegxcUEXG9pFzlfkjbLxen3ge70hWX"
+        },
+        {
+          "number": 37,
+          "title": "Virtualization Cloud and Distributed Computing - Part 4",
+          "id": "1CFNK-fYeTViNQPoVYXYMzXwJ8cta_Jsn",
+          "anchor": "v-1CFNK-fYeTViNQPoVYXYMzXwJ8cta_Jsn",
+          "href": "s5.html#v-1CFNK-fYeTViNQPoVYXYMzXwJ8cta_Jsn"
+        },
+        {
+          "number": 38,
+          "title": "Virtualization Cloud and Distributed Computing - Part 5",
+          "id": "1IymKCeb5Ql8CUEYcmj46qzFosqT-nmp9",
+          "anchor": "v-1IymKCeb5Ql8CUEYcmj46qzFosqT-nmp9",
+          "href": "s5.html#v-1IymKCeb5Ql8CUEYcmj46qzFosqT-nmp9"
+        },
+        {
+          "number": 39,
+          "title": "The Internet of Things IoT",
+          "id": "1wxYll_QaNL2z4EqfLBc90wORJ3byMMV9",
+          "anchor": "v-1wxYll_QaNL2z4EqfLBc90wORJ3byMMV9",
+          "href": "s5.html#v-1wxYll_QaNL2z4EqfLBc90wORJ3byMMV9"
+        },
+        {
+          "number": 40,
+          "title": "Asset tracking and hardware hardening",
+          "id": "1pTZE0UpXeO1w65FH1ZzkTzBHWDfho0Fr",
+          "anchor": "v-1pTZE0UpXeO1w65FH1ZzkTzBHWDfho0Fr",
+          "href": "s5.html#v-1pTZE0UpXeO1w65FH1ZzkTzBHWDfho0Fr"
+        },
+        {
+          "number": 41,
+          "title": "Electricity",
+          "id": "1UBAaC41vcvX9GSpGIwZvK80t5v6W6ctQ",
+          "anchor": "v-1UBAaC41vcvX9GSpGIwZvK80t5v6W6ctQ",
+          "href": "s5.html#v-1UBAaC41vcvX9GSpGIwZvK80t5v6W6ctQ"
+        },
+        {
+          "number": 42,
+          "title": "Backups - Part 1",
+          "id": "1JXNiy_J_tup3Y7JCjg2CoYQI29Fd2nFK",
+          "anchor": "v-1JXNiy_J_tup3Y7JCjg2CoYQI29Fd2nFK",
+          "href": "s5.html#v-1JXNiy_J_tup3Y7JCjg2CoYQI29Fd2nFK"
+        },
+        {
+          "number": 43,
+          "title": "Backups - Part 2",
+          "id": "1PHTax41Je5A9R1WLbVWNC1IU257ux-RU",
+          "anchor": "v-1PHTax41Je5A9R1WLbVWNC1IU257ux-RU",
+          "href": "s5.html#v-1PHTax41Je5A9R1WLbVWNC1IU257ux-RU"
+        },
+        {
+          "number": 44,
+          "title": "Fault tolerance redundancy and resiliency - Part 1",
+          "id": "12rBL-gTM8K2WMDYHqOaeqXqj_5ERynwP",
+          "anchor": "v-12rBL-gTM8K2WMDYHqOaeqXqj_5ERynwP",
+          "href": "s5.html#v-12rBL-gTM8K2WMDYHqOaeqXqj_5ERynwP"
+        },
+        {
+          "number": 45,
+          "title": "Fault tolerance redundancy and resiliency - Part 2",
+          "id": "1D24LlQLK4xS4JMSc4RuWfZPbXeLsqUK1",
+          "anchor": "v-1D24LlQLK4xS4JMSc4RuWfZPbXeLsqUK1",
+          "href": "s5.html#v-1D24LlQLK4xS4JMSc4RuWfZPbXeLsqUK1"
+        },
+        {
+          "number": 46,
+          "title": "Fault tolerance redundancy and resiliency - Part 3",
+          "id": "1A3r_zpGiTmYDTLNWzeKb7RyVw_y7qnlA",
+          "anchor": "v-1A3r_zpGiTmYDTLNWzeKb7RyVw_y7qnlA",
+          "href": "s5.html#v-1A3r_zpGiTmYDTLNWzeKb7RyVw_y7qnlA"
+        },
+        {
+          "number": 47,
+          "title": "Fire suppression - Part 1",
+          "id": "1CalREWqIgac3-CWolhNmmqzAr2YOVMIY",
+          "anchor": "v-1CalREWqIgac3-CWolhNmmqzAr2YOVMIY",
+          "href": "s5.html#v-1CalREWqIgac3-CWolhNmmqzAr2YOVMIY"
+        },
+        {
+          "number": 48,
+          "title": "Fire suppression - Part 2",
+          "id": "13n3UvdLIyRo_GroSKTk5biw9JGg2xIba",
+          "anchor": "v-13n3UvdLIyRo_GroSKTk5biw9JGg2xIba",
+          "href": "s5.html#v-13n3UvdLIyRo_GroSKTk5biw9JGg2xIba"
+        },
+        {
+          "number": 49,
+          "title": "Secure design principles - Part 1",
+          "id": "1EvbgfyKTwTluPal8pPR0kUpS-lnTvfBe",
+          "anchor": "v-1EvbgfyKTwTluPal8pPR0kUpS-lnTvfBe",
+          "href": "s5.html#v-1EvbgfyKTwTluPal8pPR0kUpS-lnTvfBe"
+        },
+        {
+          "number": 50,
+          "title": "Secure design principles - Part 2",
+          "id": "1Aksab5d_a1ppiaDkvs48k3bd1tlFNik_",
+          "anchor": "v-1Aksab5d_a1ppiaDkvs48k3bd1tlFNik_",
+          "href": "s5.html#v-1Aksab5d_a1ppiaDkvs48k3bd1tlFNik_"
+        },
+        {
+          "number": 51,
+          "title": "What we covered in Domain 4",
+          "id": "1E5Jkzx7vomE7uhdByfUp-87Mwh9kwWBg",
+          "anchor": "v-1E5Jkzx7vomE7uhdByfUp-87Mwh9kwWBg",
+          "href": "s5.html#v-1E5Jkzx7vomE7uhdByfUp-87Mwh9kwWBg"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Domain 5 Security Operations",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain 5 - What we will be covering",
+          "id": "1ySvwktuiboB3N15u6kjBM9L3jwZFdViv",
+          "anchor": "v-1ySvwktuiboB3N15u6kjBM9L3jwZFdViv",
+          "href": "s6.html#v-1ySvwktuiboB3N15u6kjBM9L3jwZFdViv"
+        },
+        {
+          "number": 2,
+          "title": "Configuration Management",
+          "id": "12X_rg1Ngjx6gRTRdLUv3YdGhK0UVnJPF",
+          "anchor": "v-12X_rg1Ngjx6gRTRdLUv3YdGhK0UVnJPF",
+          "href": "s6.html#v-12X_rg1Ngjx6gRTRdLUv3YdGhK0UVnJPF"
+        },
+        {
+          "number": 3,
+          "title": "Patch Management",
+          "id": "1DI-XtdsTAPlvyDa6mcTu8WoufL4GKcYX",
+          "anchor": "v-1DI-XtdsTAPlvyDa6mcTu8WoufL4GKcYX",
+          "href": "s6.html#v-1DI-XtdsTAPlvyDa6mcTu8WoufL4GKcYX"
+        },
+        {
+          "number": 4,
+          "title": "Change Management",
+          "id": "1EjJe3MxY4pZJYaPZVq7tXfSlZQG2xf5H",
+          "anchor": "v-1EjJe3MxY4pZJYaPZVq7tXfSlZQG2xf5H",
+          "href": "s6.html#v-1EjJe3MxY4pZJYaPZVq7tXfSlZQG2xf5H"
+        },
+        {
+          "number": 5,
+          "title": "Cryptography - Part 1",
+          "id": "1rGIMSNVwx298ubFy817IgEIG5QhV9TWp",
+          "anchor": "v-1rGIMSNVwx298ubFy817IgEIG5QhV9TWp",
+          "href": "s6.html#v-1rGIMSNVwx298ubFy817IgEIG5QhV9TWp"
+        },
+        {
+          "number": 6,
+          "title": "Cryptography - Part 2",
+          "id": "1q0EEYwf7-z91kJHblgnxNR0pMxGeJ4Ob",
+          "anchor": "v-1q0EEYwf7-z91kJHblgnxNR0pMxGeJ4Ob",
+          "href": "s6.html#v-1q0EEYwf7-z91kJHblgnxNR0pMxGeJ4Ob"
+        },
+        {
+          "number": 7,
+          "title": "Cryptography - Part 3",
+          "id": "1b2M86Cs1sAnZMrmkTqvTKTRhHC-yRPES",
+          "anchor": "v-1b2M86Cs1sAnZMrmkTqvTKTRhHC-yRPES",
+          "href": "s6.html#v-1b2M86Cs1sAnZMrmkTqvTKTRhHC-yRPES"
+        },
+        {
+          "number": 8,
+          "title": "Hashing",
+          "id": "15nBld1xzUUbrKNzg_z6Z1SHQ_MLnMzcR",
+          "anchor": "v-15nBld1xzUUbrKNzg_z6Z1SHQ_MLnMzcR",
+          "href": "s6.html#v-15nBld1xzUUbrKNzg_z6Z1SHQ_MLnMzcR"
+        },
+        {
+          "number": 9,
+          "title": "Attacks on our cryptography",
+          "id": "1_F89GFX3MGu0Z_IAZ-9x-z-F0J2pF51m",
+          "anchor": "v-1_F89GFX3MGu0Z_IAZ-9x-z-F0J2pF51m",
+          "href": "s6.html#v-1_F89GFX3MGu0Z_IAZ-9x-z-F0J2pF51m"
+        },
+        {
+          "number": 10,
+          "title": "Data handling data storage and data retention - Part 1",
+          "id": "1ntjRMFW39hB_iN2mqexE-8-N9CJZNEMM",
+          "anchor": "v-1ntjRMFW39hB_iN2mqexE-8-N9CJZNEMM",
+          "href": "s6.html#v-1ntjRMFW39hB_iN2mqexE-8-N9CJZNEMM"
+        },
+        {
+          "number": 11,
+          "title": "Data handling data storage and data retention - Part 2",
+          "id": "1ajXOYtUsD1ZA1WgaLHtDImN_717kpADr",
+          "anchor": "v-1ajXOYtUsD1ZA1WgaLHtDImN_717kpADr",
+          "href": "s6.html#v-1ajXOYtUsD1ZA1WgaLHtDImN_717kpADr"
+        },
+        {
+          "number": 12,
+          "title": "Data handling data storage and data retention - Part 3",
+          "id": "1VFYmV6bQh9pBX1FmGH89j2UWT8b5CACm",
+          "anchor": "v-1VFYmV6bQh9pBX1FmGH89j2UWT8b5CACm",
+          "href": "s6.html#v-1VFYmV6bQh9pBX1FmGH89j2UWT8b5CACm"
+        },
+        {
+          "number": 13,
+          "title": "Administrative Directive Controls",
+          "id": "1elalgJUuqzL5hVCgkS8V7WEDlTRnaRsq",
+          "anchor": "v-1elalgJUuqzL5hVCgkS8V7WEDlTRnaRsq",
+          "href": "s6.html#v-1elalgJUuqzL5hVCgkS8V7WEDlTRnaRsq"
+        },
+        {
+          "number": 14,
+          "title": "Training and awareness",
+          "id": "1rb3QYPxn-vtcorwnnM82DnOqUN5A_OTL",
+          "anchor": "v-1rb3QYPxn-vtcorwnnM82DnOqUN5A_OTL",
+          "href": "s6.html#v-1rb3QYPxn-vtcorwnnM82DnOqUN5A_OTL"
+        },
+        {
+          "number": 15,
+          "title": "Social Engineering attacks - Part 1",
+          "id": "1rfijkhE1KxPcMaZ07MU9QuTiTcW5spxZ",
+          "anchor": "v-1rfijkhE1KxPcMaZ07MU9QuTiTcW5spxZ",
+          "href": "s6.html#v-1rfijkhE1KxPcMaZ07MU9QuTiTcW5spxZ"
+        },
+        {
+          "number": 16,
+          "title": "Social Engineering attacks - Part 2",
+          "id": "1WpDNAfv7wzbHutuHda_z8Du9iXvMqAD_",
+          "anchor": "v-1WpDNAfv7wzbHutuHda_z8Du9iXvMqAD_",
+          "href": "s6.html#v-1WpDNAfv7wzbHutuHda_z8Du9iXvMqAD_"
+        },
+        {
+          "number": 17,
+          "title": "What we covered in Domain 5",
+          "id": "1LndZ1tuXtGLL5CbQjm7A5Ra-OTUw4UNm",
+          "anchor": "v-1LndZ1tuXtGLL5CbQjm7A5Ra-OTUw4UNm",
+          "href": "s6.html#v-1LndZ1tuXtGLL5CbQjm7A5Ra-OTUw4UNm"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Domain recaps",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain 1 recap Certified in Cybersecurity CC",
+          "id": "1B16HBnH8JpVhNa9lW9zIJPxh6_Jm9yUq",
+          "anchor": "v-1B16HBnH8JpVhNa9lW9zIJPxh6_Jm9yUq",
+          "href": "s7.html#v-1B16HBnH8JpVhNa9lW9zIJPxh6_Jm9yUq"
+        },
+        {
+          "number": 2,
+          "title": "Domain 2 recap Certified in Cybersecurity CC",
+          "id": "1we1T120vlnWpnGaVU_E-g_55ITeBYv-7",
+          "anchor": "v-1we1T120vlnWpnGaVU_E-g_55ITeBYv-7",
+          "href": "s7.html#v-1we1T120vlnWpnGaVU_E-g_55ITeBYv-7"
+        },
+        {
+          "number": 3,
+          "title": "Domain 3 recap Certified in Cybersecurity CC",
+          "id": "1CeZOaqeG0BPddP1zJe9910GZ8Rryfidr",
+          "anchor": "v-1CeZOaqeG0BPddP1zJe9910GZ8Rryfidr",
+          "href": "s7.html#v-1CeZOaqeG0BPddP1zJe9910GZ8Rryfidr"
+        },
+        {
+          "number": 4,
+          "title": "Domain 4 recap Certified in Cybersecurity CC",
+          "id": "1sb4YJTVZlS6LvA6dCwqHgXn8bh4xS6Dm",
+          "anchor": "v-1sb4YJTVZlS6LvA6dCwqHgXn8bh4xS6Dm",
+          "href": "s7.html#v-1sb4YJTVZlS6LvA6dCwqHgXn8bh4xS6Dm"
+        },
+        {
+          "number": 5,
+          "title": "Domain 5 recap Certified in Cybersecurity CC",
+          "id": "1a1udr1I68e-Pga2VNzb6hU--NNO0cp_B",
+          "anchor": "v-1a1udr1I68e-Pga2VNzb6hU--NNO0cp_B",
+          "href": "s7.html#v-1a1udr1I68e-Pga2VNzb6hU--NNO0cp_B"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "The study process material tips tricks and practice tests",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Why you should want to get Certified in Cybersecurity",
+          "id": "1785MUv1sKR1a6OFi9UYjy3zBHjBWyvT2",
+          "anchor": "v-1785MUv1sKR1a6OFi9UYjy3zBHjBWyvT2",
+          "href": "s8.html#v-1785MUv1sKR1a6OFi9UYjy3zBHjBWyvT2"
+        },
+        {
+          "number": 2,
+          "title": "Scheduling your exam and what to expect",
+          "id": "1y7VX1MZThyVmAOdmg3dBCjKufaV2HEUj",
+          "anchor": "v-1y7VX1MZThyVmAOdmg3dBCjKufaV2HEUj",
+          "href": "s8.html#v-1y7VX1MZThyVmAOdmg3dBCjKufaV2HEUj"
+        },
+        {
+          "number": 3,
+          "title": "What to expect on exam day and after",
+          "id": "1t8v83c7V8lnFi17GobCKZCwLIqqCxe3H",
+          "anchor": "v-1t8v83c7V8lnFi17GobCKZCwLIqqCxe3H",
+          "href": "s8.html#v-1t8v83c7V8lnFi17GobCKZCwLIqqCxe3H"
+        },
+        {
+          "number": 4,
+          "title": "I passed the exam now what",
+          "id": "1FJfqiVgw_4Pp7iXK3vuHah6o5DlwcH5X",
+          "anchor": "v-1FJfqiVgw_4Pp7iXK3vuHah6o5DlwcH5X",
+          "href": "s8.html#v-1FJfqiVgw_4Pp7iXK3vuHah6o5DlwcH5X"
+        },
+        {
+          "number": 5,
+          "title": "I failed the exam now what",
+          "id": "1IiEFGYcnfAlvIB8ZjdV7x57uqqzhGge7",
+          "anchor": "v-1IiEFGYcnfAlvIB8ZjdV7x57uqqzhGge7",
+          "href": "s8.html#v-1IiEFGYcnfAlvIB8ZjdV7x57uqqzhGge7"
+        },
+        {
+          "number": 6,
+          "title": "How to approach practice questions",
+          "id": "1opGfIPkc7ZB-l9sIz8ofcqBO2of-CE1r",
+          "anchor": "v-1opGfIPkc7ZB-l9sIz8ofcqBO2of-CE1r",
+          "href": "s8.html#v-1opGfIPkc7ZB-l9sIz8ofcqBO2of-CE1r"
+        },
+        {
+          "number": 7,
+          "title": "How to design your career and certification path",
+          "id": "10tJptif6u7BDyEVjELIZbeJLuSPIcVSV",
+          "anchor": "v-10tJptif6u7BDyEVjELIZbeJLuSPIcVSV",
+          "href": "s8.html#v-10tJptif6u7BDyEVjELIZbeJLuSPIcVSV"
+        }
+      ]
+    }
+  ]
+}

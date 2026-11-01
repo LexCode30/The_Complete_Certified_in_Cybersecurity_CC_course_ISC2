@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://LexCode30.github.io/The_Complete_Certified_in_Cybersecurity_CC_course_ISC2/sitemap.xml
